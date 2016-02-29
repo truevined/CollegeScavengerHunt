@@ -1,0 +1,116 @@
+<android.support.v4.widget.DrawerLayout
+    android:id="@+id/drawer_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".activity.WhoOwesMeActivity">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbarWOM"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:elevation="4dp"
+            style="@style/Toolbar"
+            app:contentInsetStart="0dp">
+
+            <ImageView
+                android:id="@+id/action_bar_menu"
+                android:src="@drawable/ic_menu"
+                style="@style/ImageView.Hamburger" />
+        </android.support.v7.widget.Toolbar>
+
+    <!-- Navigation drawer -->
+    <ListView
+        android:id="@+id/navdrawer"
+        android:layout_width="@dimen/navdrawer_width"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@android:color/white"
+        android:choiceMode="singleChoice"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:drawSelectorOnTop="false">
+    </ListView>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar"
+        android:background="#fff">
+
+        <TextView
+            android:id="@+id/crossfade_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/menu_1"
+            android:textSize="16sp" />
+
+        <com.getbase.floatingactionbutton.FloatingActionsMenu
+            android:id="@+id/fab_bottom_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="12dp"
+            fab:fab_icon="@drawable/add64"
+            fab:fab_addButtonColorNormal="@color/teal_700"
+            fab:fab_addButtonColorPressed="@color/white_pressed"
+            fab:fab_addButtonPlusIconColor="@color/white"
+            fab:fab_addButtonSize="normal"
+            fab:fab_labelStyle="@style/menu_labels_style"
+            fab:fab_labelsPosition="left"
+            android:layout_gravity="bottom|right">
+
+            <com.getbase.floatingactionbutton.FloatingActionButton
+                android:id="@+id/other"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                fab:fab_icon="@drawable/favourites7"
+                fab:fab_colorNormal="@color/teal_700"
+                fab:fab_colorPressed="@color/womtheme"
+                fab:fab_title="Other" />
+
+            <com.getbase.floatingactionbutton.FloatingActionButton
+                android:id="@+id/clothing"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                fab:fab_icon="@drawable/tshirt18"
+                fab:fab_colorNormal="@color/teal_700"
+                fab:fab_colorPressed="@color/womtheme"
+                fab:fab_title="Clothing" />
+
+            <com.getbase.floatingactionbutton.FloatingActionButton
+                android:id="@+id/Book"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                fab:fab_icon="@drawable/hardbound"
+                fab:fab_colorNormal="@color/teal_700"
+                fab:fab_colorPressed="@color/womtheme"
+                fab:fab_title="Book" />
+
+            <com.getbase.floatingactionbutton.FloatingActionButton
+                android:id="@+id/money"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                fab:fab_icon="@drawable/dollar185"
+                fab:fab_colorNormal="@color/teal_700"
+                fab:fab_colorPressed="@color/womtheme"
+                fab:fab_title="Cash" />
+
+        </com.getbase.floatingactionbutton.FloatingActionsMenu>
+
+
+    </FrameLayout>
+</RelativeLayout>
+</android.support.v4.widget.DrawerLayout>

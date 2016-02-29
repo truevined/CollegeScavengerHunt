@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-3b66e79d30994deb65e71763c145278c68fbe5e8.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-02e3f6aa174a287479b1430bdc5cb99361d1c7c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\GuillotineMenu-Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\GuillotineMenu-Android\app\build\intermediates\pre-dexed\debug\classes-03ed6165768d496b851c5bb518735c2f9a4d7c7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.1gravity\android-rteditor\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2522dafbb9d9874796e49781f982764d6697d25c">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-8ef708c755eba0f95f3f426ee518163b4af5e0da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.github.rey5137\material\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0040be6592cbfbb19a2c1e90a759278795ed2280">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-8b09bce5d70857efc0232a221275a6995e80faed.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-5587a957042e45437887f191875d208706329930.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.mikepenz\google-material-typeface\2.2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="861dd8b4d38117b27f7e95c9fd555f69fe668138">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-b02d6c233ab867446857557b567557fac78c1e3a.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-70e8b2480ad965f58a74042c19c15a0e7b3ffe4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-97db693bbca3084b4d67a24c313ea1e132ea0740.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-6f806c9e25625cb3e9d2767851eca18566fca625.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-1b7d6a04cbda58c9ab279f5e696aafa6952bdee4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-59442f86e198a76be90280cf48b1d8287727059b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-c3be9d1ab7d33ea641211c2da8a396296c2d4428.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.mikepenz\google-material-typeface\2.2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="861dd8b4d38117b27f7e95c9fd555f69fe668138">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-ac9b5eb80655fc3858052bd1a432f11e110c5c97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-751a91ff520aba2801fcd223a4c6ae3c9799e6c0.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-22c4cc6c9481cd66022301872ee288d997261945.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-103430aa8449632db551aec2a3fab356e6e2155f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-7a490a1c10fca789a48ec8a0c5bb52be8e8aa092.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.github.rey5137\material\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0040be6592cbfbb19a2c1e90a759278795ed2280">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-b9c8a09d4164f7148bac431dcba4501c58822d94.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.10\8d62b91f5ccb6f7f872313191c016c03bb61a792\library-1.0.10.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d62b91f5ccb6f7f872313191c016c03bb61a792">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\library-1.0.10-67c4cdea07a94e85ddd119047a39bfdbbdf20c85.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\com.github.florent37\materialtextfield\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2123437cc582d1461d90a334c29c0a98d4522d0c">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\classes-8e30ed7cbfe64c848c6216bd63d2123979cfc9e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\classes-26e084acd22202b257690899cb9805fbce9c8368.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-6cd9dd79dc094d0e26239e7454dcedccc8fa1a43.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\core\0.8.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="efd888513182313dec7418425445e742aaab113e">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-3227f631a1ededd073b1ca2676b3f0c9426b7f85.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\classes-f6844576c65c0ba99f99257fcfcb51c4d0a20d8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\GuillotineMenu-Android\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0-39edc391f5a0ce74329dc777f0c362242941a524.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-fd288973a972f129a3057f03bf0e2f2f80795d15.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-bf99c4fee34142013c527c9cbd32f7e33ca9e014.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-2cb2bcf2441012f83cc95e06a635bc69152e8ba5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\.gradle\caches\modules-2\files-2.1\com.flaviofaria\kenburnsview\1.0.6\65dcd9c03096b73f4740d63cf93d30a692fe52b5\kenburnsview-1.0.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65dcd9c03096b73f4740d63cf93d30a692fe52b5">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\kenburnsview-1.0.6-800321a54a0a1aa2a4724d4b991745df5aababcb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\classes-c71354cf42aa34902e24f8bc48308bfe80c80ce7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\classes-485261d8d4d4236ae84c9012fab317d1b3995cc2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.1gravity\android-rteditor\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2522dafbb9d9874796e49781f982764d6697d25c">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-ff5d2a6b060ad62c5ddf3d34e4f2bb4f5b979184.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\.gradle\caches\modules-2\files-2.1\io.realm\realm-android\0.84.2\61e6edd15626bc5278a00593b604274539222a8f\realm-android-0.84.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61e6edd15626bc5278a00593b604274539222a8f">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\realm-android-0.84.2-b4ec92ff660c510a70824bc2ffe6917a751829f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\GuillotineMenu-Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\GuillotineMenu-Android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-cdbd9eb2ebba5d5ef70e784d517c039db3b35efc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-55aa47a2d9aae1edc1429a0553fb43ef5222e723.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\classes-a7f6c0f3099e4423631733105597737d37b531b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-4ab78080d65f3e98d687d90c952f22f4c06b7b0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-6c93064a6e872ffed77776abef7bf433f34b2df7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\classes-8557ca6a35d0361b3446c300e20c0db10cdc4d3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.1gravity\android-rteditor-core\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4181c376b74da348cea1139a8c3ee5f43b80041e">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-07a1b77c08c0bf940b4dab3f9da79a22c06fc5d4.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-391342a12d6e53e1dad6101273de27610460193e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.1gravity\android-rteditor-core\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4181c376b74da348cea1139a8c3ee5f43b80041e">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-532138b0124ac11966635c23f59f568542703c93.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-1bd28ff1489d8d894aa42599380f5e025af4ad9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-abc\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a70bccee8af9d7b28f7ae8beff1cbbf3c1c4b147">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-8142ec5b85a5ce2e4de9d0e2f0cdaa5e7869c66b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-96f7a9f7b0a3ae5bef5927d9b7d703943dd509db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\classes-e04c01d88d5a35479b9ac1108104e8226c2d6dd7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-dc0fbcdecd82301ec336d285e737c2dc0f206596.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.1gravity\android-rteditor-colorpicker\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b3c0e0da2875d42ab37482955cf9c94edabbfe4">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-a42be246aee09461e92af0c43dc2fda3ff4cb74a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.1gravity\android-rteditor-colorpicker\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b3c0e0da2875d42ab37482955cf9c94edabbfe4">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-ca6617b75a2813e1536b53c40bdd728e4575ec59.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\.gradle\caches\modules-2\files-2.1\com.flaviofaria\kenburnsview\1.0.6\65dcd9c03096b73f4740d63cf93d30a692fe52b5\kenburnsview-1.0.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65dcd9c03096b73f4740d63cf93d30a692fe52b5">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\kenburnsview-1.0.6-800321a54a0a1aa2a4724d4b991745df5aababcb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\org.wordpress\WordPressEditor\0.4\release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="60bd1e413a7022ae522a65019a791e638d81ebdb">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-1b9f81988d04442f88d55e146c77e9988cc70830.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-4ab78080d65f3e98d687d90c952f22f4c06b7b0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-0a866011e7ec300998eb272ee53afd22082e1798.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\com.mikepenz\fontawesome-typeface\4.4.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e8ad61c604470ee6933c21ae0aefcf9ee03c3911">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\classes-0e821dbfaf0be4013f6e11598c0482bbbfc8966b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-9ae848bfec1e7b601759e3bacbe29d5e816d29a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\core\0.8.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="efd888513182313dec7418425445e742aaab113e">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-6e62c548042ac20105a46f98f5eca1c7064228e1.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.github.florent37\materialtextfield\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2123437cc582d1461d90a334c29c0a98d4522d0c">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-84a6fd5e20eab30fc0dd98d8eb4babcc23101f6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-8e6a79e187dc01cd30f0f22fa480c983f521fe09.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\classes-a4d1257e1ca4704f60e80473a0244faaa1eaefae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-920c0ff022f418ca8c43b98530713332b6b7b6f3.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-f9cc6aaecd5a8eeb93f021cbe3def39454815444.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\GuillotineMenu-Android\app\build\intermediates\exploded-aar\GuillotineMenu-Android\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="29b7c111116f3817e0bcde27a7db65fb757c2d4b">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\GuillotineMenu-Android\app\build\intermediates\pre-dexed\debug\classes-2b1c1d645a4a1a46fa4016d98b74ccbd8762c0a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\org.wordpress\utils\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dc16051466cdb2a4c5304e6a2775d10c7bd8db25">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-c0c8b579dbcabc0c92bc9a8669bbe5945e669d28.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-f71ec9c82c9e7159cf36051f9f28e45cff638117.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-d6ea2940bc54c27cd42cd367d7b70d017a2b97c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\library-2.4.0-01debe6e620766ce7549202c39513c664ce6f0bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-f069bd8e9cb5ff2b52c703bf9217555a78e439b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-103430aa8449632db551aec2a3fab356e6e2155f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-33b68335940223eba868ff2386e6fa5fd20e07ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-9ee83ce04362658034045b756f1a36c67fac961e.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0-78cd26f90c84ab3b459e57728795953e29ac7545.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-bf99c4fee34142013c527c9cbd32f7e33ca9e014.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-c48817e9bf4f6cc1f1b089b6ca4a513c396ea025.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\core\0.8.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="efd888513182313dec7418425445e742aaab113e">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-3227f631a1ededd073b1ca2676b3f0c9426b7f85.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-2b4bc5760f987f693f7a42ecca557a3d96374439.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.mikepenz\fontawesome-typeface\4.4.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e8ad61c604470ee6933c21ae0aefcf9ee03c3911">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-a52d788b8fd9f7c5a1e2c04e97ab7497bc3753ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.mixpanel.android\mixpanel-android\4.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa7cc7ba0ac99fc204dc397c880563a30313949b">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-ac76646a1362e81516bb1d8fa9f00dabf8b421a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-fd288973a972f129a3057f03bf0e2f2f80795d15.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-e5d2c60e37498b7df216ea87b9e669fc1fe4a7f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-f71ec9c82c9e7159cf36051f9f28e45cff638117.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-55aa47a2d9aae1edc1429a0553fb43ef5222e723.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\.gradle\caches\modules-2\files-2.1\io.realm\realm-android\0.84.2\61e6edd15626bc5278a00593b604274539222a8f\realm-android-0.84.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61e6edd15626bc5278a00593b604274539222a8f">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\realm-android-0.84.2-b4ec92ff660c510a70824bc2ffe6917a751829f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-391342a12d6e53e1dad6101273de27610460193e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.1gravity\android-rteditor-core\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4181c376b74da348cea1139a8c3ee5f43b80041e">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-532138b0124ac11966635c23f59f568542703c93.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\GuillotineMenu-Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\GuillotineMenu-Android\app\build\intermediates\pre-dexed\debug\classes-94ac0a8f197a4e1f84b9ad2e1f02483fb5931ab0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-2fcdfff23e5006b84778e94d91165233b2b3dcf1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\com.mikepenz\google-material-typeface\2.2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="861dd8b4d38117b27f7e95c9fd555f69fe668138">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\classes-37160ca19f51fa366596513ca056f2436ffbfc86.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-fb309c7fd90edddfb006c289fdb1f3df24df386e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-922b0dd23d2373b1c0618ab9a3d85a6657bda0ce.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.1gravity\android-rteditor\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2522dafbb9d9874796e49781f982764d6697d25c">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-8ef708c755eba0f95f3f426ee518163b4af5e0da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-0cdf76d3482b5e942255b77769135fa1aca81b6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\classes-56c4ccf3cb38893c34ca78a64125e1864a530229.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-70e8b2480ad965f58a74042c19c15a0e7b3ffe4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-f606efce56dc40023127c0ecb34f230fa2b5f4bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\org.wordpress\analytics\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8cf3e94b89a9d413c4baa2044be5857206ba07e8">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-8603d05453e9a704d810524b1ec3260d4e50da2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-e5de30d2610ad993784135674ab0058a32f7373b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.mikepenz\google-material-typeface\2.2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="861dd8b4d38117b27f7e95c9fd555f69fe668138">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-ac9b5eb80655fc3858052bd1a432f11e110c5c97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-175fe62634f00d216029638f2d99689ddd58097a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-9ae848bfec1e7b601759e3bacbe29d5e816d29a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-3d1b1acc7870eb4d90aa9230866cf9a471d4dff1.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-abc\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a70bccee8af9d7b28f7ae8beff1cbbf3c1c4b147">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\classes-9335ade7515a3e01ffbba470b10c322edf97883d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-13b6a6d438532a784ae040ecd519ccd709300d6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.github.rey5137\material\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0040be6592cbfbb19a2c1e90a759278795ed2280">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-b9c8a09d4164f7148bac431dcba4501c58822d94.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-fe7f41031c0d6e46dc3d2bf83e72af070744fdb7.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.github.florent37\materialtextfield\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2123437cc582d1461d90a334c29c0a98d4522d0c">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-84a6fd5e20eab30fc0dd98d8eb4babcc23101f6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-964f5c58fdf868bf01023199b107b48e79bdc30f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-59858f16f58c4997a58ca5d13898318a4d7d691a.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-a4d2bbf46dff7503139afd81b1854218d59e58ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-8d357e936c3550927c5f008e4c82ce29aaf50bc5.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\classes-2f0b4ecf5c71d814de9a0807745aeb65d6e9a073.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-120a6b8ff69786e395f87876f2549b49a020a0d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-7cc50f2a79ca170719f2aabbf887680a9da464b2.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-1c4f5539916afecfdb2e8e50b90080400ffcd83d.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\.gradle\caches\modules-2\files-2.1\commons-lang\commons-lang\2.6\ce1edb914c94ebc388f086c6827e8bdeec71ac2\commons-lang-2.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0ce1edb914c94ebc388f086c6827e8bdeec71ac2">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\commons-lang-2.6-1ae8169a4bb4ae51306901858922f0545ef29245.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-f6fac1317d6166d766c714eb6816c357ddddf463.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-6c7e8e24622e500192f9eadd9673e76cb7cff325.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.github.florent37\materialtextfield\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2123437cc582d1461d90a334c29c0a98d4522d0c">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-207256ed6774b1cbb3f10d27ead15fefc8f6d8a3.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-0a551cc0a401347997591ef3a104c1c6bbf2d49b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-11fb1cccf54a64bc5dad4ec08877a848f374df27.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-6c93064a6e872ffed77776abef7bf433f34b2df7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\library-2.4.0-01debe6e620766ce7549202c39513c664ce6f0bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-d6a11559511933184e9aa2d3f14f6a91482991e6.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-fadab8cdd6c22e4c4c49826d67cd6465b68546f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0-78cd26f90c84ab3b459e57728795953e29ac7545.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-abc\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a70bccee8af9d7b28f7ae8beff1cbbf3c1c4b147">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-8142ec5b85a5ce2e4de9d0e2f0cdaa5e7869c66b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-a8b144636968c611c8a2c3fbe7909d044baabb45.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2778e660c73585e0343c150933a1e8c964245007.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.1gravity\android-rteditor-colorpicker\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b3c0e0da2875d42ab37482955cf9c94edabbfe4">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-a42be246aee09461e92af0c43dc2fda3ff4cb74a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-dc0fbcdecd82301ec336d285e737c2dc0f206596.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.mikepenz\fontawesome-typeface\4.4.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e8ad61c604470ee6933c21ae0aefcf9ee03c3911">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-a52d788b8fd9f7c5a1e2c04e97ab7497bc3753ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.mikepenz\fontawesome-typeface\4.4.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e8ad61c604470ee6933c21ae0aefcf9ee03c3911">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-ab0797efc01da4f7dff28c81d60ca44d46be829f.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-6f806c9e25625cb3e9d2767851eca18566fca625.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-b0d1951b84f53795f6732f965a551d03534beb37.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-abc\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a70bccee8af9d7b28f7ae8beff1cbbf3c1c4b147">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-6d930ae0524051d0c0d3b40c9ae828faf4b36a9e.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="62209cacb78ffe64f71ed8527fd08d8fbb9fd433">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\Nature&apos;s Notepad\app\build\intermediates\pre-dexed\debug\classes-80b18cff25087e8a54e2b1996c28b5ec200eeb46.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\exploded-aar\com.github.rey5137\material\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0040be6592cbfbb19a2c1e90a759278795ed2280">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\WhoOwesMeV2\app\build\intermediates\pre-dexed\debug\classes-70f8d0abe255bea3500b8a8aac7ed62024b9d658.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\GuillotineMenu-Android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-1858c5d8fb181adfee56ea9a34f4cc69e9bff82b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\classes-2f259531aa22c2f45cda032cebcd526783b85bab.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Tonye Brown\AndroidStudioProjects\College Scavenger Hunt\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-0b3657b18197959df283538bc7e9cf687db1bfad.jar\classes.dex" />
+    </item>
+
+</items>

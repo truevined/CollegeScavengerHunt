@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/wom_menu1"
+            android:icon="@drawable/group2"
+            android:title="@string/menu_1" />
+        <item
+            android:id="@+id/wom_menu2"
+            android:icon="@drawable/favourites7"
+            android:title="@string/menu_3" />
+        <item
+            android:id="@+id/wom_menu3"
+            android:icon="@drawable/history2"
+            android:title="@string/menu_4" />
+    </group>
+
+    <item android:title="@string/menu_5">
+        <menu>
+            <item
+                android:id="@+id/wom_menu4"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_6" />
+            <item
+                android:id="@+id/wom_menu5"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_7" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_8">
+        <menu>
+            <item
+                android:id="@+id/wom_menu6"
+                android:icon="@drawable/sort49"
+                android:title="@string/menu_9" />
+            <item
+                android:id="@+id/wom_menu7"
+                android:icon="@drawable/sort47"
+                android:title="@string/menu_10" />
+            <item
+                android:id="@+id/wom_menu8"
+                android:icon="@drawable/sort48"
+                android:title="@string/menu_11" />
+        </menu>
+    </item>
+
+</menu>

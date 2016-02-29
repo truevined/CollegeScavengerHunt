@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical"
+    tools:context=".activity.MainActivity">
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/circular_progress_bar"
+        />
+
+    <com.flaviofaria.kenburnsview.KenBurnsView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageViewMenu"
+        android:src="@drawable/blurred6"
+        android:scaleType="center"
+        android:background="#b3000000"
+        android:alpha="0.77" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/notebookList"
+        android:id="@+id/textView11"
+        android:textIsSelectable="false"
+        android:textSize="21sp"
+        android:layout_marginTop="40dp"
+        android:gravity="center" />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="84dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="49dp">
+
+        <ListView
+            android:id="@+id/dblist"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/notes_list_linear_layout_bg"
+            android:layout_marginBottom="21dp"
+            android:paddingLeft="3dp"
+            android:paddingTop="10dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="10dp"
+            android:scrollbarAlwaysDrawVerticalTrack="true"
+            >
+        </ListView>
+
+    </LinearLayout>
+</FrameLayout>

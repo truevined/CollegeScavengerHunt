@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical"
+    tools:context=".activity.MainActivity">
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/circular_progress_bar"
+        />
+
+    <com.flaviofaria.kenburnsview.KenBurnsView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageViewMenu"
+        android:src="@drawable/blurred6"
+        android:scaleType="center"
+        android:background="#b3000000"
+        android:alpha="0.77" />
+
+    <!--<android.support.v7.widget.Toolbar
+        style="@style/Toolbar"
+        app:contentInsetStart="0dp">
+
+        &lt;!&ndash;<ImageView
+            android:id="@+id/guillotine_hamburger"
+            android:src="@drawable/ic_menu"
+            style="@style/ImageView.Hamburger" />&ndash;&gt;
+    </android.support.v7.widget.Toolbar>-->
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="210dp"
+        android:textSize="21sp"
+        android:textColor="#000"
+        android:id="@+id/tvComposeNewNote">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="208dp"
+        android:textSize="21sp"
+        android:id="@+id/tvComposeNewNote2"
+        android:textColor="#fff"
+        android:layout_marginRight="1dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:baselineAligned="false"
+        android:id="@+id/writeNote_group">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/typeNote_group"
+            android:orientation="horizontal"
+            android:layout_marginTop="260dp"
+            android:background="@drawable/landing_linear_layout_bg"
+            android:layout_marginLeft="77dp"
+            android:layout_marginRight="77dp"
+            android:layout_weight="1">
+
+
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="28dp"
+                android:src="@drawable/lettera7"
+                android:layout_weight="0.13"
+                android:layout_margin="20dp"
+                android:scaleType="fitEnd"
+                android:alpha="0.8"
+                android:adjustViewBounds="false" />
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:text="@string/menu_1"
+                android:layout_weight="0.5"
+                android:textSize="20sp"
+                android:textColor="#fff"
+                android:id="@+id/cvWhoOwesMe"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="20dp"
+                android:gravity="center_vertical" />
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/history_group"
+            android:orientation="horizontal"
+            android:layout_marginTop="335dp"
+            android:background="@drawable/landing_linear_layout_bg"
+            android:layout_marginLeft="77dp"
+            android:layout_marginRight="77dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="28dp"
+                android:src="@drawable/notebook4"
+                android:layout_weight="0.23"
+                android:layout_margin="20dp"
+                android:scaleType="fitEnd"
+                android:alpha="0.8"
+                android:adjustViewBounds="false" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:text="@string/menu_3"
+                android:layout_weight="0.5"
+                android:layout_margin="20dp"
+                android:textSize="20sp"
+                android:textColor="#fff"
+                android:id="@+id/cvHistory"
+                android:gravity="center_vertical" />
+        </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/calendar_group"
+            android:orientation="horizontal"
+            android:layout_marginTop="410dp"
+            android:background="@drawable/landing_linear_layout_bg"
+            android:layout_marginLeft="77dp"
+            android:layout_marginRight="77dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="28dp"
+                android:src="@drawable/hardbound"
+                android:layout_weight="0.23"
+                android:layout_margin="20dp"
+                android:scaleType="fitEnd"
+                android:alpha="0.8"
+                android:adjustViewBounds="false" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:text="@string/menu_4"
+                android:layout_weight="0.5"
+                android:layout_margin="20dp"
+                android:textSize="20sp"
+                android:textColor="#fff"
+                android:id="@+id/cvCalendar"
+                android:gravity="center_vertical" />
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/settings_group"
+        android:orientation="horizontal"
+        android:layout_marginTop="485dp"
+        android:background="@drawable/landing_linear_layout_bg"
+        android:layout_marginLeft="77dp"
+        android:layout_marginRight="77dp" >
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="28dp"
+            android:src="@drawable/three115"
+            android:layout_weight="0.23"
+            android:layout_margin="20dp"
+            android:scaleType="fitEnd"
+            android:alpha="0.8"
+            android:adjustViewBounds="false" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="@string/menu_5"
+            android:layout_weight="0.5"
+            android:layout_margin="20dp"
+            android:textSize="20sp"
+            android:textColor="#fff"
+            android:id="@+id/cvSettings"
+            android:gravity="center_vertical" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_horizontal|top" />
+
+</FrameLayout>

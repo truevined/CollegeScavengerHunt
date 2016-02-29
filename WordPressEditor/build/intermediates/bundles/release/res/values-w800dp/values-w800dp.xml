@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Tonye%20Brown/AndroidStudioProjects/College%20Scavenger%20Hunt/WordPressEditor/src/main/res/values-w800dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="format_bar_button_group_tablet">@dimen/format_bar_button_group_tablet_large</dimen>
+    <dimen name="format_bar_button_margin_tablet">@dimen/format_bar_button_margin_tablet_large</dimen>
+</resources>

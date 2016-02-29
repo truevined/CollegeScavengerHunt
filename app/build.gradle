@@ -1,0 +1,53 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "tonyebrown.whoowesme"
+        minSdkVersion 21
+        targetSdkVersion 23
+        versionCode 2
+        versionName "1.1"
+
+        // Enabling multidex support.
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    dexOptions {
+        preDexLibraries = false
+        javaMaxHeapSize "4g"
+    }
+
+    configurations { all*.exclude group: 'com.android.support', module: 'support-v7' }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.flaviofaria:kenburnsview:1.0.6'
+    compile 'com.mikepenz:google-material-typeface:2.2.0.1@aar'
+    compile 'com.mikepenz:fontawesome-typeface:4.4.0.1@aar'
+    compile 'io.realm:realm-android:0.84.2'
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.daimajia.easing:library:1.0.1@aar'
+    compile 'com.daimajia.androidanimations:library:1.1.3@aar'
+    compile 'com.getbase:floatingactionbutton:1.10.1'
+    compile 'com.balysv.materialmenu:material-menu-abc:1.5.4'
+    compile 'de.hdodenhof:circleimageview:2.0.0'
+    compile 'com.github.florent37:materialtextfield:1.0.1@aar'
+    compile 'com.github.rey5137:material:1.2.1'
+    compile 'com.1gravity:android-rteditor:1.4.0'
+    compile 'com.google.android.gms:play-services:8.4.0'
+    compile 'com.android.support:appcompat-v7:23.1.1'
+}
+
+repositories {
+    maven { url "https://jitpack.io" }
+}

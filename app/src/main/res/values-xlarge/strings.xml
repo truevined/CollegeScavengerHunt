@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Editor custom buttons -->
+    <string name="editor_title_hint">Note Title</string>
+    <string name="editor_save">Save Note</string>
+    <string name="editor_cancel">Discard Note</string>
+    <string name="editor_discard">Discard</string>
+    <string name="editor_date">Last modified:</string>
+    <string name="editor_date_content"> </string>
+    <string name="editor_location">Location:</string>
+    <string name="editor_location_content"> </string>
+
+
+</resources>

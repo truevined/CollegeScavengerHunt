@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Tonye%20Brown/AndroidStudioProjects/College%20Scavenger%20Hunt/WordPressEditor/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-w720dp/values-w720dp.xml -->
+    <eat-comment/>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">false</bool>
+    <!-- From: file:/C:/Users/Tonye%20Brown/AndroidStudioProjects/College%20Scavenger%20Hunt/WordPressEditor/src/main/res/values-w720dp/layouts.xml -->
+    <eat-comment/>
+    <bool name="show_extra_side_padding">true</bool>
+    <!-- From: file:/C:/Users/Tonye%20Brown/AndroidStudioProjects/College%20Scavenger%20Hunt/WordPressEditor/src/main/res/values-w720dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="image_settings_dialog_extra_margin">@dimen/image_settings_dialog_extra_margin_tablet</dimen>
+    <dimen name="sourceview_side_margin">@dimen/sourceview_side_margin_large</dimen>
+</resources>

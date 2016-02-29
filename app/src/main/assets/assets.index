@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<project default="createAssetIndex">
+    <target name="createAssetIndex">
+        <fileset id="assets.fileset" dir="assets/" includes="**"
+            excludes="asset.index" />
+        <pathconvert pathsep="${line.separator}" property="assets"
+            refid="assets.fileset">
+            <mapper>
+                <globmapper from="${basedir}/assets/*" to="*"
+                    handledirsep="yes" />
+            </mapper>
+        </pathconvert>
+        <echo file="assets/assets.index">${assets}</echo>
+    </target>
+</project>
